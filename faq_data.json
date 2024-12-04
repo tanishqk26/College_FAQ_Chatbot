@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What courses are offered?",
+        "answer": "We offer B.Tech programs in Information Technology, Computer Science, Electronics, and Mechanical Engineering."
+    },
+    {
+        "question": "How can I apply for admission?",
+        "answer": "You can apply online through our official website. Fill out the application form, upload the required documents, and pay the application fee."
+    },
+    {
+        "question": "What is the eligibility criteria for admission?",
+        "answer": "Eligibility criteria vary by program. For B.Tech, candidates must have passed 12th grade with Physics, Chemistry, and Mathematics, and qualify for entrance exams like JEE or CET."
+    },
+    {
+        "question": "What is the fee structure?",
+        "answer": "The fee structure depends on the course. For detailed information, please visit the 'Fees' section on our website."
+    },
+    {
+        "question": "Are scholarships available?",
+        "answer": "Yes, scholarships are available for meritorious students and those from economically weaker sections. Visit our website's 'Scholarship' section for details."
+    },
+    {
+        "question": "What are the placement opportunities?",
+        "answer": "We have an excellent placement record, with top companies like TCS, Infosys, Wipro, and Amazon visiting our campus for recruitment."
+    },
+    {
+        "question": "What extracurricular activities are available?",
+        "answer": "Our college offers various extracurricular activities, including sports, cultural events, coding competitions, hackathons, and student clubs."
+    },
+    {
+        "question": "Does the college provide hostel facilities?",
+        "answer": "Yes, we provide separate hostels for boys and girls with 24/7 security, Wi-Fi, and other amenities."
+    },
+    {
+        "question": "What are the contact details?",
+        "answer": "You can contact us at info@yourcollege.edu or call us at 123-456-7890."
+    },
+    {
+        "question": "Where is the college located?",
+        "answer": "Our college is located at Pesh Infotech, Hinjewadi Phase 1 Rd, Pune, Maharashtra 411057."
+    },
+    {
+        "question": "When is the next admission cycle?",
+        "answer": "Admissions typically open in April and close by July. Check our website for specific dates."
+    },
+    {
+        "question": "Are internships part of the curriculum?",
+        "answer": "Yes, internships are an integral part of our curriculum, and students are encouraged to participate in industry internships."
+    },
+    {
+        "question": "Is transportation available for students?",
+        "answer": "Yes, the college provides bus facilities for students across various locations in the city."
+    },
+    {
+        "question": "How do I get updates about upcoming events?",
+        "answer": "You can follow our college’s social media handles or visit the 'Events' section on our website for updates."
+    },
+    {
+        "question": "What kind of technical events does the college organize?",
+        "answer": "The college organizes hackathons, coding competitions, workshops, and seminars on the latest technologies like AI, ML, and Web3."
+    },
+    {
+        "question": "What are the library facilities available?",
+        "answer": "Our library is well-equipped with books, e-resources, and journals. It also provides access to online databases and study spaces."
+    },
+    {
+        "question": "What is the dress code for students?",
+        "answer": "Students are required to wear formal attire during academic hours and adhere to the college dress code policy."
+    },
+    {
+        "question": "Are there any clubs for students?",
+        "answer": "Yes, we have multiple student-run clubs, including coding, robotics, AI/ML, cultural, and literary clubs."
+    },
+    {
+        "question": "Does the college offer support for startups?",
+        "answer": "Yes, the college has an incubation center to support student startups and entrepreneurial ventures."
+    },
+    {
+        "question": "What are the Wi-Fi facilities available on campus?",
+        "answer": "The campus provides high-speed Wi-Fi for students and staff, available in all academic and hostel areas."
+    }
+]
